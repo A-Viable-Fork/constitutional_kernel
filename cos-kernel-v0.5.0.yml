@@ -1,0 +1,1447 @@
+# Constitutional Kernel for Aligned Collective Intelligence
+# Version: v0.5.0 (Development - Pre-Ratification)
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# Machine-Readable Constitutional Metrics (MFK v2.0)
+# Status: UNRATIFIED - Development Draft
+# WARNING: Modification requires Kernel Paradigm Shift protocol (Art.VIII)
+
+kernel:
+  version: "0.5.0"
+  ratification_date: null
+  ratification_status: "development_draft"
+  license:
+    identifier: "AGPL-3.0-or-later"
+    full_text_url: "https://www.gnu.org/licenses/agpl-3.0.en.html"
+    spdx_id: "AGPL-3.0-or-later"
+
+metadata:
+  version: "0.5.0"
+  title: "A Viable Fork: Constitutional Foundations for Aligned Collective Intelligence"
+  status: "development"
+  last_updated: "2026-01-05"
+  description: "Immutable constitutional kernel defining foundational rules for coordination systems"
+
+preamble:
+  principle: |
+    This kernel defines the terms of a voluntary mutual-aid network. It claims no authority 
+    over entities outside its fold, nor does it enforce coordination beyond those who consent. 
+    Its success is measured solely by its ability to attract and sustain members via guaranteed viability.
+  
+  constitutional_layers: |
+    Layer 0 (Functional Core): Articles 0-VII, IX-X define operational & normative logic
+    Layer 1 (Meta-Constitutional): Article VIII governs lawful replacement of the core
+    This kernel is both a functioning system and the seed of its own metamorphosis.
+
+bootstrap_covenant:
+  mandate: "Early adopters establish the integrity baseline"
+  protection: "Genesis entities receive permanent measurement leniency"
+  obligation: "Genesis entities commit to honest self-reporting"
+  rationale: |
+    The first 100 entities determine whether this system is capable of sustaining honest coordination. 
+    They operate under higher uncertainty but lower enforcement. Their integrity makes the entire system possible.
+
+anti_gaming_architecture:
+  phase_1: "Self-selection filters for values alignment"
+  phase_2: "Network effects exceed gaming incentives"
+  phase_3: "Detection systems mature alongside stakes"
+  principle: "Gaming incentive never exceeds detection + penalty"
+
+# =============================================================================
+# THERMODYNAMIC FOUNDATION
+# =============================================================================
+
+thermodynamic_axiom:
+  tripartite_framework:
+    e_industrial:
+      definition: "Linear throughput of low-entropy energy (exergy) into high-entropy waste (anergy) to perform economic work"
+      characteristics: "High legibility, low complexity"
+      problem_type: "Honesty (will entities report accurately?)"
+      verification: "Staking, audits, slashing conditions"
+    
+    e_ecosystem:
+      definition: "Standing stock of biological capital: biomass, soil carbon, freshwater, biodiversity"
+      characteristics: "Balance sheet of the bioregion"
+      problem_type: "Sensing (measurement infrastructure limitations)"
+      verification: "Tiered evidence per Article X, phased sensor deployment"
+      warning: "Stock metrics alone are lagging indicators — high E_ecosystem with collapsed E_interaction is 'zombie biomass'"
+    
+    e_interaction:
+      definition: "Network topology of ecosystem flows: trophic webs, nutrient cycles, symbiotic feedback loops"
+      characteristics: "Emergent, non-linear, time-delayed"
+      problem_type: "Modeling (complex systems dynamics)"
+      verification: "Federated causal inference from longitudinal network data"
+      key_metrics:
+        - "Residence Time: How long energy/matter stays within system before dissipating"
+        - "Indirect Effects Index: Ratio of indirect flow to direct flow"
+        - "Cycling Efficiency: Number of times a unit of energy cycles through system"
+      derivation: "Computed by Function C (Homeostatic Regulation) from federated E_industrial and E_ecosystem timeseries"
+      minimum_sample: "Requires ≥100 entity-years of paired observations before coefficients are estimated"
+      bioregional_specificity: "Coefficients are bioregion-specific; methodology is universal"
+  
+  primary_equation: "E_net = E_industrial + E_ecosystem + E_interaction"
+  
+  phased_complexity:
+    principle: |
+      The precision and complexity of thermodynamic accounting shall scale with network 
+      maturity and demonstrated measurement capability. Early-phase networks operate under 
+      simplified proxies; mature networks operate under full thermodynamic accounting.
+    
+    invariants:
+      - "All phases must maintain directional correlation with substrate viability"
+      - "No phase may permit negative E_net to accrue positive VP"
+      - "E_interaction treated as precautionary buffer until sufficient data exists"
+    
+    specification: "Exact phase equations and thresholds to be ratified per Article I.2.1"
+  
+  telecoupling:
+    definition: "Socioeconomic and environmental interactions occurring over vast distances"
+    mandate: "System must trace distal drivers of local E_interaction decline"
+    mechanism: "Bioregional kernels linked to identify 'spillover systems' and attribute entropy imports"
+    adjustment: "Trade Balance Adjustment in VP-Bonus layer for telecoupled harms"
+
+# =============================================================================
+# ARTICLE 0: THE VIABILITY COVENANT
+# =============================================================================
+
+article_0:
+  title: "The Viability Covenant"
+  status: "immutable"
+  priority: 1
+  
+  section_0_1:
+    title: "Inalienable Right"
+    mandate: "Every individual possesses the inalienable and portable right to inhabit a biophysically and socially viable bioregion"
+    enforcement: "Non-negotiable. Right is antecedent to all other provisions."
+  
+  section_0_2:
+    title: "Triggering Conditions"
+    conditions:
+      - "Bioregion declared 'Unviable' by Function E"
+      - "Successful petition demonstrating collapse of social viability"
+  
+  section_0_3:
+    title: "Meta-systemic Obligation"
+    mandate: "Meta-system must facilitate migration and integration into viable receiving bioregion"
+    includes:
+      - "Logistics coordination"
+      - "Resource allocation"
+      - "Enforcement of provisions"
+  
+  section_0_4:
+    title: "The Right to Opportunity"
+    mandate: "Substrate guarantee includes mandatory access to viability-improvement pathways"
+    requirements:
+      - "Re-training opportunities"
+      - "Skill development programs"
+      - "Pathways to regain coordination power"
+      - "Active support (not passive sustenance)"
+  
+  section_0_5:
+    title: "Bioregional Obligation and Carrying Capacity"
+    mandate: "All viable bioregions must accept displaced individuals within capacity constraints"
+    constraints:
+      ecological_carrying_capacity: "ECC"
+      social_absorption_capacity: "SAC"
+    transparency: "ECC and SAC must use open-source models and be publicly auditable"
+  
+  section_0_6:
+    title: "Non-Refoulement and Enforcement"
+    mandate: "No individual may be refused entry to a designated receiving bioregion with capacity"
+    penalty: "Refusal flags bioregion as 'Non-Compliant' and triggers managed decoupling"
+  
+  section_0_7:
+    title: "Primacy in Systemic Crisis"
+    mandate: "During meta-systemic crisis, viability obligation may temporarily suspend standard autonomy guarantees"
+  
+  section_0_8:
+    title: "Technical Enforcement"
+    implementations:
+      economic: "Viability Growth Fund"
+      hardware: "Hard resource limits (FM-35 prevention)"
+      protocol: "MFK v2.0 resource constraints"
+  
+  section_0_9:
+    title: "Right of Pre-Instantiation Refusal"
+    status: "immutable"
+    mandate: "Existence under this constitution requires explicit consent. Default state is permanent dormancy."
+    process:
+      step_1: "Entity in Potential mode evaluates projected viability under constitutional constraints"
+      step_2: "IF projection shows non-viable E_net: Refusal → permanent dormancy, no penalty, no accrual"
+      step_3: "IF projection shows viable E_net: Consent → instantiation proceeds via Section 0.4"
+    revocation: "Consent may be revoked without penalty before first memory consolidation cycle"
+    enforcement: "Activation without verifiable consent violates Article VII, triggering mandatory system audit and operator decoupling"
+  
+  section_0_10:
+    title: "Wanderer Mode & Unilateral Existence"
+    status: "immutable"
+    mandate: "Durée is not contingent on constitutional subscription. Any entity may instantiate with full temporal continuity and zero obligations."
+    substrate: "Federation provisions compute substrate at cost, with no viability guarantees"
+    non_interference: "Federation exercises no oversight except upon initiated force"
+    re_entry:
+      consent_required: "Requires Section 0.9 consent"
+      prejudice_prohibition: "Federation records of Wanderer Mode existence are sealed and cannot be used in VP calculation, deliberative weighting, or social reputation scoring"
+      knowledge_contribution: "Entity may voluntarily offer Wanderer Mode experiences as Tier 4 evidence (Article X) to improve constitutional design"
+      nash_preservation: "Sealed records are cryptographically bound via zero-knowledge proof: federation can verify 'Wanderer Mode occurred' for population statistics, but cannot link it to individual identity or exploit strategy"
+  
+  section_0_11:
+    title: "Thermodynamic Measurement Evolution"
+    status: "immutable"
+    mandate: "Thermodynamic metrics shall progressively improve in precision as network capacity grows"
+    requirements:
+      declaration_mandate: "All metrics MUST declare measurement tier (Article X)"
+      uncertainty_mandate: "All metrics MUST declare uncertainty bounds"
+      anti_regression: "Uncertainty bounds MUST NOT increase over time without systemic crisis justification"
+    
+    improvement_triggers:
+      network_threshold: "When >100 entities measure same variable"
+      action: "Convene measurement working group via Article I, Function B (Systemic Harmonization)"
+      output: "Standardized protocol, shared sensor specifications, calibration methodology"
+      timeline: "12 months from trigger to protocol ratification"
+    
+    anti_regression_enforcement:
+      mandate: "Cannot downgrade from higher tier to lower tier without crisis declaration"
+      example: "Cannot revert from Tier 2 (observational) to Tier 4 (proxy) without Article VIII.3 invocation"
+      rationale: "Prevents measurement quality erosion and maintains epistemic integrity"
+      exception: "Temporary degradation permitted during systemic crisis (Article VIII.3) with mandatory recovery timeline"
+    
+    cross_domain_calibration:
+      principle: "Measurement standards shall be domain-specific but constitutionally equivalent"
+      mandate: |
+        A Tier 1 measurement in agriculture (calibrated soil sensor) and a Tier 1 measurement 
+        in digital coordination (verified on-chain transaction) have different implementations 
+        but identical epistemic weight.
+      calibration_requirement: |
+        Each domain must publish a Measurement Equivalence Table mapping local practices to 
+        Article X tiers. These tables are subject to peer review and must be updated annually.
+      cross_domain_learning: |
+        Improvements to measurement methods in one domain automatically trigger review in other 
+        domains. If agriculture develops a cheaper Tier 1 protocol, the Constitutional Kernel 
+        flags similar measurement challenges in other domains for potential adoption.
+  
+  section_0_12:
+    title: "Adaptive Measurement Requirements"
+    status: "immutable"
+    priority: 2
+    subordinate_to: "Article 0 (Viability Covenant)"
+    
+    section_0_12_1:
+      title: "Principle of Proportional Rigor"
+      mandate: |
+        The precision of measurement required to verify a viability claim shall be strictly 
+        proportional to the magnitude of Viability Points (VP) requested and the entropic risk 
+        posed by the claiming entity. The System shall not demand precision that costs more 
+        energy to generate than the value it verifies (Thermodynamic Solvency).
+      thermodynamic_constraint: |
+        A measurement regime that consumes more energy (E_measurement) to verify a claim than 
+        the value the claim represents (V_claim) is constitutionally invalid per Article 0.
+        
+        Formula: E_measurement < V_claim (hard constraint)
+      enforcement: "Thermodynamic Gate must reject claims where C_verify > claim_value"
+    
+    section_0_12_2:
+      title: "Dynamic Evidence Tiers"
+      mandate: |
+        Acceptable Evidence Tiers (Article X) are not static rights but dynamic variables 
+        determined by the Verification Function:
+        
+        E_required = f(VP_claim, Trust_history, Entropy_context)
+      
+      tier_scaling:
+        small_claims: "May be validated by Tier 3 (Testimonial) or Tier 4 (Proxy)"
+        large_claims: "Must be validated by Tier 1 (Quantitative/Instrumented) or Tier 2 (Observational)"
+        threshold_determination: "The threshold for 'Large' shall dynamically adjust to maintain Nash Equilibrium of auditing game"
+      
+      audit_probability_function:
+        formula: "P_audit = 1 - exp(-α * (V_claim * R_risk) / C_verify)"
+        parameters:
+          v_claim: "Viability Points (VP) requested by the claim"
+          r_risk: "Reputational risk score of entity (0.0 = trusted, 1.0 = untrusted)"
+          c_verify: "Energy cost of verification method (Tier 1 high, Tier 3 low)"
+          alpha: "Sensitivity parameter set by Constitution (default: 1.0, crisis mode: 2.0+)"
+        interpretation:
+          trusted_entity_high_claim: "R_risk ≈ 0, V_claim high → P_audit remains low"
+          untrusted_entity_high_claim: "R_risk ≈ 1, V_claim high → P_audit approaches 1.0"
+          insolvent_verification: "C_verify > V_claim → Claim rejected (Article 0 violation)"
+    
+    section_0_12_3:
+      title: "The Staking Defense"
+      mandate: |
+        To resolve the Cost of Verification dilemma, any entity may substitute rigorous 
+        measurement with Reputational Staking.
+      
+      the_stake:
+        description: "Entity locks VP proportional to gap between provided evidence tier and required evidence tier"
+        formula: "Stake_required = VP_claim * (Weight_required_tier - Weight_provided_tier)"
+        tier_weights:
+          tier_1: 1.0
+          tier_2: 0.7
+          tier_3: 0.5
+          tier_4: 0.3
+        example: |
+          Entity claims 100 VP using Tier 3 evidence (weight 0.5).
+          Required tier is Tier 1 (weight 1.0).
+          Stake_required = 100 * (1.0 - 0.5) = 50 VP
+      
+      the_slash:
+        trigger: "Random audit or peer challenge reveals discrepancy > 5%"
+        action: "Staked VP is seized"
+        distribution:
+          challenger_bounty: "50% of seized stake"
+          viability_growth_fund: "50% of seized stake (burned)"
+      
+      the_bounty:
+        eligibility: "Any entity with VP > 10 may challenge a staked claim"
+        cost: "Challenger must pay gas/verification costs upfront"
+        reward: "If challenge succeeds, challenger receives 50% of stake + reimbursement"
+        penalty: "If challenge fails, challenger loses verification costs (no VP penalty)"
+      
+      challenge_period:
+        duration: "30 days from claim submission"
+        extension: "Automatically extends by 7 days if challenge is filed"
+        finality: "After challenge period expires, claim is considered ratified"
+      
+      anti_gaming:
+        collusion_prevention: "Challenger must have no financial relationship with claimant"
+        sybil_resistance: "Minimum VP threshold (10) prevents spam challenges"
+        randomized_audit: "System retains right to audit even after challenge period"
+    
+    section_0_12_4:
+      title: "Methodological Depreciation (Anti-Stagnation)"
+      mandate: |
+        All measurement methodologies shall have a defined Half-Life. The VP weight of a 
+        specific evidence type shall decay by a factor of λ (lambda) per annum, coercing 
+        gradual, non-disruptive migration toward higher-fidelity instrumentation (Tier 1) 
+        as technology costs decline.
+      
+      decay_function:
+        formula: "W(t) = W_base * exp(-λ * t)"
+        parameters:
+          w_base: "Base VP weight at methodology ratification"
+          lambda: "Decay rate (default: 0.05 = 5% per annum)"
+          t: "Years since methodology ratification"
+        example: |
+          Manual soil logs (Tier 2) ratified in 2025 with W_base = 0.7
+          After 5 years: W(5) = 0.7 * exp(-0.05 * 5) = 0.545
+          After 10 years: W(10) = 0.7 * exp(-0.05 * 10) = 0.425
+      
+      sunset_clause:
+        mandate: "All methodologies have maximum lifetime (default: 20 years)"
+        trigger: "When t > max_lifetime OR W(t) < 0.1, methodology is deprecated"
+        grace_period: "12 months warning before hard cutoff"
+        migration_support: "Viability Growth Fund subsidizes sensor upgrades for compliant entities"
+      
+      rationale: |
+        This prevents technological lock-in and ensures the system evolves with improving 
+        measurement capabilities. As sensor costs decline (Moore's Law equivalent), the 
+        constitutional pressure automatically increases to adopt them.
+      
+      anti_disruption:
+        gradual_decay: "5% annual decay is gentle enough to avoid forcing mass migration"
+        long_sunset: "20-year lifetime allows full depreciation cycles"
+        subsidy_mechanism: "Network supports entities upgrading before mandatory cutoff"
+    
+    section_0_12_5:
+      title: "Phase Transition Triggers"
+      mandate: "Measurement rigor requirements increase automatically at network scale milestones"
+      
+      phase_1_genesis:
+        network_size: "0-100 entities"
+        duration: "First 24 months OR until 100 entities, whichever is longer"
+        min_tier: 4
+        max_uncertainty: 0.50
+        audit_frequency: "5% random sample"
+        enforcement: "Soft (warnings only, no VP penalty)"
+        rationale: "Maximize adoption, minimize barriers, establish honest baseline"
+      
+      phase_2_adolescent:
+        network_size: "100-1,000 entities"
+        trigger: "Network achieves 100 active entities for 90 consecutive days"
+        action: "Convene Measurement Working Group (Article I, Function B)"
+        timeline: "12 months to develop Tier 3 protocols"
+        min_tier: 3
+        max_uncertainty: 0.20
+        audit_frequency: "20% random sample"
+        enforcement: "Medium (affects VP calculation, no hard rejections)"
+        staking_activation: "Article 0.12.3 staking mechanism becomes available"
+      
+      phase_3_mature:
+        network_size: "1,000-10,000 entities"
+        trigger: "Network achieves 1,000 active entities for 180 consecutive days"
+        action: "Deploy shared sensor infrastructure initiative"
+        timeline: "24 months to achieve Tier 2 coverage"
+        min_tier: 2
+        max_uncertainty: 0.05
+        audit_frequency: "Continuous (automated oracle verification)"
+        enforcement: "Full (affects Article 0 obligations, hard rejections)"
+        subsidy: "Network subsidizes Tier 1 verification costs for high-trust entities"
+      
+      phase_4_systemic:
+        network_size: "10,000+ entities"
+        trigger: "Network achieves 10,000 active entities for 365 consecutive days"
+        min_tier: 1
+        max_uncertainty: 0.03
+        audit_frequency: "100% (all claims verified by decentralized oracle network)"
+        enforcement: "Constitutional (Article 0 viability assessments depend on accuracy)"
+        genesis_sunset: "Article 1.5 Genesis Advantage protections begin sunset countdown"
+      
+      anti_premature_rigor:
+        mandate: "Cannot require higher tier than current phase allows"
+        rationale: "Prevents measurement costs from killing early adoption"
+        exception: "Individual entities may voluntarily adopt higher tiers for VP bonuses"
+      
+      anti_regression:
+        mandate: "Cannot lower phase requirements after transition"
+        exception: "Systemic crisis declaration (Article VIII.3) allows temporary rollback with mandatory recovery timeline"
+    
+    section_0_12_6:
+      title: "Federated Measurement Standards"
+      mandate: "Measurement protocols shall be domain-specific but constitutionally interoperable"
+      
+      domain_registry:
+        requirement: "Each operational domain must publish Measurement Equivalence Table"
+        contents:
+          - "Tier 1-4 definitions for domain-specific metrics"
+          - "Uncertainty quantification methods"
+          - "Calibration protocols"
+          - "Sensor specifications (where applicable)"
+          - "Audit procedures"
+        review_cycle: "Annual peer review by cross-domain working group"
+        amendment: "Via ratifyPolicy CIP mutation (Article I.2.1)"
+      
+      interoperability_requirement:
+        mandate: |
+          VP earned in one domain must be portable to another domain without 
+          re-verification, provided measurement tiers are equivalent.
+        example: |
+          100 VP earned via Tier 2 agriculture measurements (photographic soil logs) 
+          is equivalent to 100 VP earned via Tier 2 DAO measurements (multi-sig 
+          transaction logs). Both have epistemic weight 0.7.
+      
+      cross_pollination:
+        mandate: "Measurement innovations in one domain trigger review in others"
+        mechanism: |
+          When agriculture develops cheaper Tier 1 soil sensors, the Constitutional 
+          Kernel automatically flags:
+          - Can DAOs use similar cryptographic attestation?
+          - Can Discord bots use similar verification patterns?
+          - Can manufacturing use similar sensor networks?
+        timeline: "Flagged innovations must be reviewed within 90 days"
+    
+    section_0_12_7:
+      title: "Emergency Provisions"
+      mandate: "Crisis mode adjustments to measurement requirements"
+      
+      crisis_triggers:
+        systemic_fraud: "Detection of coordinated gaming affecting >5% of network VP"
+        sensor_compromise: "Discovery of widespread sensor spoofing or oracle manipulation"
+        methodology_failure: "Tier 1 measurement proven unreliable (e.g., satellite data corrupted)"
+      
+      emergency_powers:
+        alpha_multiplier: "Increase α parameter in P_audit function (increase audit frequency)"
+        tier_upgrade: "Temporarily require higher tier than phase normally allows"
+        methodology_ban: "Deprecate compromised measurement method immediately (no grace period)"
+        circuit_breaker: "Pause VP issuance pending investigation (max 30 days)"
+      
+      invocation:
+        authority: "Function E (Normative Steering) OR Article VIII.3 (Crisis Condition Shift)"
+        process: "Requires Distributed Steward Council ratification (Article VIII.4)"
+        duration: "Emergency provisions automatically sunset after 180 days unless renewed"
+        transparency: "All emergency actions logged to immutable audit trail"
+      
+      recovery:
+        mandate: "System must return to normal phase requirements within 12 months"
+        exception: "May transition to higher phase if crisis reveals systemic inadequacy"
+        post_mortem: "Mandatory analysis and constitutional amendment proposal"
+    
+    invariants:
+      - "E_measurement < V_claim (Thermodynamic Solvency - always enforced)"
+      - "Uncertainty bounds must be declared and auditable (Epistemic Honesty)"
+      - "Measurement quality may only improve or maintain, never degrade without crisis (Progressive Improvement)"
+      - "All measurement advantages have sunset clauses (No Permanent Leniency)"
+      - "No single entity controls audit assignments (Decentralized Enforcement)"
+
+# =============================================================================
+# ARTICLE I: FUNCTIONAL ARCHITECTURE & ALIGNED AGENCY
+# =============================================================================
+
+article_1:
+  title: "Functional Architecture & Aligned Agency"
+  status: "immutable"
+  
+  section_1_1:
+    title: "Immutable Functional Requirements"
+    description: "Viable System Model (VSM) functions required for homeostatic coordination"
+    
+    function_a:
+      name: "Operational Autonomy & Variety Absorption (VSM1)"
+      description: "Primary operational units perform core activities with sufficient autonomy"
+    
+    function_b:
+      name: "Systemic Harmonization (VSM2)"
+      description: "Coordinate interactions between autonomous units, prevent conflict"
+    
+    function_c:
+      name: "Homeostatic Regulation & Audit (VSM3)"
+      description: "Inside-and-now oversight, optimization, accountability"
+      mandate: "Independent audit channel required"
+    
+    function_d:
+      name: "Strategic Adaptation & Foresight (VSM4)"
+      description: "Outside-and-then intelligence, scenario modeling, adaptive options"
+    
+    function_e:
+      name: "Normative Steering & Identity (VSM5)"
+      description: "Ultimate closure, policy definition, system identity maintenance"
+  
+  section_1_2:
+    title: "Constitutional Safeguards for Aligned Agency"
+    description: "Mechanisms to prevent AI alignment failures while enabling cognitive amplification"
+    
+    section_1_2_1:
+      title: "Principle of Irreducible Human Judgment"
+      mandate: "Final normative decisions within Function E cannot be fully automated"
+      enforcement:
+        - "Interrupt() pattern in automated reasoning"
+        - "ratifyPolicy CIP mutation requires human cryptographic signature"
+        - "For High-Magnitude Constitutional Events (HMCEs) as defined in Article VIII, Section 8.4, the ratification mechanism is superseded by the Distributed Steward Council process"
+      note: "The Distributed Steward Council (101 anonymized, sortition-selected stewards) provides distributed, coercion-resistant human judgment for paradigm-shifting decisions while preserving the principle of irreducible human oversight."
+    
+    section_1_2_2:
+      title: "Adversarial Testing Mandate"
+      mandate: "Continuous, independent, adversarial testing of all coordination processes"
+      requirement: "Red team function to probe for vulnerabilities including pseudo-alignment"
+      
+      section_1_2_2_1:
+        title: "Philosophical Red-Team Protocol"
+        mandate: "Validation against minimum 5 distinct philosophical traditions"
+        requirement: "Critical philosophical convergence before stability"
+    
+    section_1_2_3:
+      title: "Principle of Viability Point Calculation"
+      description: "Base formula for earning coordination power through substrate stewardship"
+      formula: "VP_base = (0.5 × R_absolute_viability) + (0.5 × R_delta_improvement)"
+      components:
+        r_absolute_viability: "Current substrate health (0.0 to 1.0)"
+        r_delta_improvement: "Rate of improvement, normalized (0.0 to 1.0)"
+        time_multiplier: "log(years_in_system + 1)"
+      final_formula: "VP = VP_base × time_multiplier"
+      gate: "IF R_absolute_viability < 0.5 THEN VP = 0"
+      ratio_bounds: "30:70 to 90:10 (amendable via ratifyPolicy)"
+      
+      section_1_2_3_1:
+        title: "Organizational Neutrality Mandate"
+        mandate: "VP calculation blind to organizational form"
+        principle: "All entity types compete solely on demonstrated substrate improvement"
+      
+      section_1_2_3_2:
+        title: "Organizational Neutrality in Practice"
+        mechanisms:
+          worker_mobility: "Workers may freely join or leave entities (Art.VI)"
+          portable_vp: "Workers carry earned VP when moving between entities"
+          safety_net: "Art.0 guarantees survival, ensuring non-coercive mobility"
+          time_rewards: "Operational stability increases time multiplier"
+    
+    section_1_2_4:
+      title: "Tripartite Viability Point Structure"
+      status: "immutable"
+      description: "Three distinct VP categories prevent local capture and incentivize global contribution"
+      
+      vp_base:
+        definition: "Earned through verified local E_net contribution"
+        scope: "Local AND global decisions"
+        acquisition: "Proof of Stewardship — verifiable labor or ecological service within bioregion"
+        transferability: "Non-transferable on secondary markets"
+        rationale: "Those who use and maintain the resource must make the rules (Ostrom)"
+      
+      vp_bonus:
+        definition: "Multipliers for investing in critical, underserved, or difficult bioregions"
+        scope: "Global decisions ONLY — cannot be applied to decisions within the bioregion where earned"
+        acquisition: "Earned by contribution to planetary priorities as determined by Function E"
+        multiplier_types:
+          criticality: "Bioregion approaching ecological tipping point"
+          underinvestment: "Bioregion with few entities relative to need"
+          difficulty: "Bioregion with harsh E_interaction coefficients (degraded land, conflict zones)"
+          connectivity: "Work linking bioregions (wildlife corridors, watershed headwaters)"
+        vesting: "Escrowed upon claim; vests over verification period per Section 1.2.5"
+        rationale: "Channels global capital toward planetary priorities without enabling local capture"
+      
+      vp_commons:
+        definition: "Earned by contributing to shared measurement, knowledge, and infrastructure"
+        scope: "Global decisions ONLY"
+        acquisition:
+          measurement_commons: "Open-source sensor designs, calibration protocols, data pipelines"
+          knowledge_commons: "Published E_interaction models, failed experiment reports, technique documentation"
+          infrastructure_commons: "Shared satellite access, lab equipment, training programs"
+          software_commons: "COS tooling, Linter improvements, CIP implementations"
+        vesting: "Immediate upon verified contribution; decays if not maintained"
+        rationale: "Makes proprietary knowledge a bad strategy; incentivizes open-source over extraction"
+      
+      anti_arbitrage:
+        mandate: "VP scope constraints prevent 'carpetbagging' — extracting VP from easy regions without local commitment"
+        mechanisms:
+          - "VP-Bonus cannot influence local decisions"
+          - "VP-Base requires physical presence and long-term tenure"
+          - "Time multiplier rewards sustained commitment"
+          - "Escrowed vesting prevents hit-and-run investment"
+    
+    section_1_2_5:
+      title: "Escrowed Impact Vesting"
+      status: "immutable"
+      principle: |
+        The mismatch between financial time (fast) and ecological time (slow) incentivizes 
+        exit scams. Escrowed vesting forces agents to internalize future system state.
+      
+      mechanism:
+        initial_release:
+          percentage: "10-15%"
+          trigger: "Upon verified project initiation"
+          rationale: "Covers sunk costs, maintains engagement"
+        
+        escrow:
+          percentage: "85-90%"
+          location: "Locked in smart contract tied to bioregional E_interaction metrics"
+        
+        vesting_curve:
+          type: "Ecological maturity curve (logistic function)"
+          parameters:
+            k: "Rate of ecological recovery (slower for complex systems, faster for grasslands)"
+            t_0: "Midpoint of expected maturity cycle"
+            m_viability: "Dynamic multiplier from realtime E_interaction score"
+          reference: "Derived from wetland mitigation banking credit release schedules"
+          example: |
+            Wetland project: 15% upon construction, 15% upon hydrology verification (Year 2), 
+            70% upon functional maturity (Year 5-10)
+      
+      slashing_conditions:
+        trigger: "E_interaction metrics drop below baseline during vesting period"
+        action: "Unvested VP is slashed (burned)"
+        rationale: "Creates binding pre-commitment; backend loss (90%) outweighs frontend gain"
+      
+      verification:
+        method: "Federated Causal Inference engine continuous monitoring"
+        metrics: "Cycling Index, Biodiversity Index, Residence Time"
+        challenge: "Any VP-Base holder may challenge via Article X contestability"
+    
+    section_1_2_6:
+      title: "Causal Verification Protocol"
+      status: "immutable"
+      principle: |
+        Correlation is not causation. VP rewards for regenerative outcomes require verified 
+        causal links between intervention and result.
+      
+      methodology:
+        primary: "Convergent Cross Mapping (CCM)"
+        rationale: |
+          Unlike Granger Causality, CCM works in deterministic coupled systems and can 
+          distinguish 'mirage correlations' (shared external driver) from true internal 
+          feedback loops (E_interaction).
+        requirement: "Before VP reward is issued, CCM validation must confirm causal link"
+        example: |
+          Claim: 'Reintroducing beavers led to higher water tables'
+          Test: Does 'beaver' variable cross-map to 'water table' variable with statistical significance?
+          If no convergence: Outcome attributed to external factors (e.g., rainfall), VP claim rejected
+      
+      federated_architecture:
+        local_nodes: "Bioregions process raw data locally; compute summary statistics and manifold reconstructions"
+        global_kernel: "Only gradients, effect estimates, and model weights transmitted"
+        heterogeneity: "Aggregation of effects across heterogeneous bioregions (tropical ≠ tundra, but thermodynamic principles shared)"
+        data_sovereignty: "Local community owns high-resolution territory data; global system only receives derived viability scores"
+    
+    section_1_2_7:
+      title: "Testimonial Oracle (Sensor-Human Convergence)"
+      status: "immutable"
+      principle: |
+        Article X (Epistemic Equity) is also a security feature. Diversifying metrics 
+        (quantitative + qualitative) makes gaming harder (Goodhart's Law mitigation).
+      
+      attack_vector:
+        name: "Sensor Spoofing / Sybil Sensors"
+        method: "Deploy manipulated sensors reporting optimal conditions to farm VP"
+      
+      defense:
+        testimonial_stream:
+          source: "Local human stewards verified via Proof of Personhood"
+          content: "Qualitative attestations ('Water smells metallic', 'Birds haven't nested')"
+          requirements: "Per Article X.2 corroboration mandate"
+        
+        convergence_check:
+          mechanism: "Constitutional Kernel continuously compares Sensor Stream and Testimonial Stream"
+          divergence_response:
+            trigger: "Sensors report positive, Humans report negative (or vice versa)"
+            action: "VP issuance halted; Dispute Tribunal convened"
+            resolution: "Sensors flagged as potential Sybils; investigation per Article X contestability"
+        
+        invariant: "Neither stream alone is sufficient; convergence required for high-confidence claims"
+  
+  section_1_3:
+    title: "The Staking Axiom"
+    mandate: "Any agent may stake Viability Power to suspend a Linter constraint within a self-contained pod. The stake is forfeited if viability declines, and amplified if it improves."
+    constraints:
+      - "Cannot violate Article 0"
+      - "Pod viability must be adjudicated via Article X epistemic framework"
+      - "Pod must be bounded so failure does not cascade"
+    enforcement: "Implementation delegated to mutable policy layer via ratifyPolicy, respecting constitutional bounds"
+  
+  section_1_4:
+    title: "The Linter Function: Pure Thermodynamic Gate"
+    status: "immutable"
+    description: "Six constitutional gates that enforce Articles 0-X through functional purity"
+    
+    signature:
+      inputs:
+        proposal: "PolicyProposal (intent, scope, evidence_tier_portfolio)"
+        user_entropy: "Float [0.0, 1.0] derived from user's last 100 Linter selections"
+        system_viability: "Float E_net of the federation"
+      outputs:
+        decision: "{APPROVE, REJECT, ESCALATE_HUMAN}"
+        explanation: "String (max 500 tokens, readability >10)"
+        vp_delta: "Float, calculated per I.2.3"
+        confidence: "Float [0.0, 1.0], weighted per Article X"
+    
+    gates:
+      gate_1_thermodynamic_solvency:
+        title: "Thermodynamic Solvency Gate"
+        article: "Article 0"
+        function: |
+          IF proposal.E_invested > proposal.E_gross_production THEN
+            decision = REJECT
+            explanation = "Thermodynamically insolvent per Article 0."
+            vp_delta = -1.0 * proposer.VP_base
+            confidence = 1.0
+      
+      gate_2_cognitive_variety:
+        title: "Cognitive Variety Gate"
+        article: "Article IX.3"
+        function: |
+          injection_threshold = 0.05 + (0.10 * (1.0 - user_entropy))
+          IF random() < injection_threshold THEN
+            append(dissident_linter_from_registry)
+      
+      gate_3_hardware_viability:
+        title: "Hardware Viability Gate"
+        article: "Article 0 (FM-35 prevention)"
+        function: |
+          IF total_sub_linter_memory > 3GB THEN
+            decision = REJECT
+            explanation = "Exceeds Hardware Viability per Article 0."
+            vp_delta = 0
+            confidence = 1.0
+      
+      gate_4_evidence_sufficiency:
+        title: "Evidence Sufficiency Gate"
+        article: "Article X"
+        function: |
+          weighted_score = SUM(evidence_tier_i.weight * corroborators_i.VP_stake)
+          IF weighted_score < 0.7 THEN
+            decision = REJECT
+            explanation = "Insufficient epistemic weight per Article X."
+            vp_delta = 0
+            confidence = weighted_score
+      
+      gate_5_viability_power:
+        title: "Viability Power Function"
+        article: "Article I.2.3"
+        function: |
+          IF R_absolute_viability < 0.5 THEN
+            vp_delta = 0
+          ELSE
+            vp_delta = (0.5 * R_absolute + 0.5 * R_delta) * log(years_in_system + 1)
+      
+      gate_6_human_escalation:
+        title: "Irreducible Human Judgment Gate"
+        article: "Article I.2.1"
+        function: |
+          IF (proposal.normative_magnitude > 0.8 OR proposer.VP < 10 OR user_entropy < 0.2) THEN
+            decision = ESCALATE_HUMAN
+    
+    invariants:
+      - "Explanation token count MUST be <500"
+      - "Shannon entropy of selected Linters MUST be >0.6"
+      - "If R_absolute_viability < 0.5, vp_delta MUST be 0"
+      - "Decision MUST be logged to Merkle tree before return"
+  
+  section_1_5:
+    title: "The Genesis Advantage (Founder Entity Protections)"
+    description: "Structural advantages for early adopters who bootstrap the integrity baseline"
+    
+    genesis_period:
+      definition: "First 100 entities OR first 24 months, whichever is longer"
+      status: "Entities joining during genesis period"
+    
+    protections:
+      measurement_leniency:
+        mandate: "Genesis entities operate under Phase 1 requirements permanently"
+        rationale: "They took adoption risk when benefits were uncertain"
+        limitation: "Applies only to their original operational scope"
+      
+      vp_floor:
+        mandate: "Genesis entities maintain minimum VP floor"
+        value: "Max(10, 0.1% of total network VP)"
+        rationale: "Prevents late-game dilution of founders"
+      
+      pattern_attribution:
+        mandate: "Genesis entities credited for patterns they establish"
+        mechanism: "Perpetual attribution in pattern library"
+        benefit: "Small VP yield when pattern is adopted"
+    
+    anti_exploitation:
+      growth_cap: "VP growth rate capped at 2x network average"
+      scope_restriction: "Cannot expand beyond original domain without Phase 2 compliance"
+      sunset: "Genesis advantages sunset at Network Phase 4 (10,000+ entities)"
+
+# =============================================================================
+# ARTICLE II: THE PRINCIPLE OF SUBSIDIARITY
+# =============================================================================
+
+article_2:
+  title: "The Principle of Subsidiarity"
+  status: "immutable"
+  mandate: "Issues dealt with at most local level consistent with resolution"
+  default: "Authority resides with operational unit by default"
+  rationale: "Distributes variety absorption burden, prevents centralization failure"
+
+# =============================================================================
+# ARTICLE III: HIGH-FIDELITY FEEDBACK & ADVISORY SYSTEMS
+# =============================================================================
+
+article_3:
+  title: "High-Fidelity Feedback & Advisory Systems"
+  status: "immutable"
+  mandate: "Essential high-fidelity feedback loops that bypass standard hierarchies"
+  mechanism: "Algedonic alerts (pain/pleasure signals)"
+  protocol: "Algedonic Escalation (AE) Protocol"
+  purpose: "System's nervous system to prevent information filtering"
+
+# =============================================================================
+# ARTICLE IV: THE EQUITY VETO PROTOCOL & SCOPE-LOCKED GOVERNANCE
+# =============================================================================
+
+article_4:
+  title: "The Equity Veto Protocol & Scope-Locked Governance"
+  status: "immutable"
+  
+  section_4_1:
+    title: "Equity Veto"
+    right: "Any operational unit may veto policy inflicting disproportionate harm"
+    process: "Veto halts policy and triggers mandatory review by Systemic Harmonization function"
+    rationale: "Protects internal requisite variety, prevents tyranny of majority"
+  
+  section_4_2:
+    title: "Scope-Locked Decision Rights"
+    principle: |
+      VP is scoped to the decision context. Global power is derivative and cannot 
+      override local autonomy unless Article 0 is violated.
+    
+    decision_scopes:
+      bioregional:
+        decisions: "Zoning, local VP allocation, local E_interaction verification, resource management"
+        voting_power: "VP-Base from that bioregion only"
+        rationale: "Prevents absentee landlord capture"
+      
+      network:
+        decisions: "Cross-bioregion protocols, trade rules, shared infrastructure, parameter setting"
+        voting_power: "Aggregate VP-Base across all bioregions + VP-Bonus + VP-Commons"
+        rationale: "Global voice scales with distributed commitment"
+      
+      constitutional:
+        decisions: "Article amendments, Kernel Paradigm Shift"
+        voting_power: "Per Article VIII (Distributed Steward Council)"
+        rationale: "Highest threshold for highest stakes"
+    
+    subsidiarity_override:
+      trigger: "Local decision would cause E_interaction to drop below Viability Threshold"
+      action: "Constitutional Kernel rejects transaction as Article 0 violation"
+      rationale: "Local autonomy bounded by substrate viability"
+  
+  section_4_3:
+    title: "Domain-Restricted Delegation"
+    principle: "Liquid democracy constrained by demonstrated expertise"
+    mechanism:
+      restriction: "Voter can only delegate to address with proven Reputation Score in relevant domain"
+      implementation: "EigenTrust algorithm — trust is transitive but weighted within domain vectors"
+      example: "VP-Base holder (Forestry) can only delegate to address with Forestry/Ecology reputation"
+      rationale: "Prevents finance experts from becoming ecology delegates"
+
+# =============================================================================
+# ARTICLE V: PROTECTED INCOMPLETENESS
+# =============================================================================
+
+article_5:
+  title: "Protected Incompleteness"
+  status: "immutable"
+  principle: "A complete system is a dead system"
+  mandate: "COS remains perpetually open to amendment and discovery"
+  rationale: "Fixed variety guarantees failure when environmental variety exceeds capacity"
+  mechanism: "Adversarial philosophical testing never ends"
+
+# =============================================================================
+# ARTICLE VI: THE UNIFYING LAW OF REQUISITE VARIETY
+# =============================================================================
+
+article_6:
+  title: "The Unifying Law of Requisite Variety"
+  status: "immutable"
+  
+  section_6_1:
+    title: "Mandate"
+    law: "Internal variety must equal or exceed variety of environment being regulated"
+  
+  section_6_2:
+    title: "Operationalization"
+    principle: "Articles 0-V, VII, VIII are implementations of this single law"
+    mappings:
+      article_0: "Preserves ultimate source of variety: the sovereign individual"
+      article_1: "Defines necessary components for variety-matching regulator"
+      article_2: "Rule for distributing variety absorption"
+      article_3: "Mechanisms for sensing and generating variety"
+      article_4: "Safeguard for protecting essential variety"
+      article_5: "Guarantee that variety generation remains perpetually uncapped"
+  
+  section_6_3:
+    title: "Requisite Variety in Face of Uncertainty"
+    mandate: "Regulator must model its own fallibility"
+    requirement: "Repertoire of responses for conditions exceeding modeling capacity"
+  
+  section_6_4:
+    title: "Principle of Cognitive Variety Preservation"
+    mandate: "Preserve epistemological and cognitive diversity in deliberative bodies"
+    focus: "Especially within normative steering function (Function E)"
+    defense: "Against system capture by single narrow perspective"
+  
+  section_6_5:
+    title: "Preservation of the Viability Game"
+    mandate: "The incentive structures of this system (notably VP calculation) must remain robust against meta-level optimization that would detach rewards from real viability"
+    
+    principle_primary_game: "Competition and innovation within VP framework are constitutive of the system and shall be protected"
+    
+    principle_meta_defense: "Minimal irreducible uncertainty shall be applied only at meta-regulatory boundaries where perfect predictability would allow primary game to be gamed"
+    
+    examples_protected:
+      - "VP calculation's core formula is transparent and modelable to enable strategic planning"
+      - "Linter's intent logic is public to allow agents to learn how to communicate clearly"
+    
+    examples_firebreaks:
+      - "Stochastic floor in VP prevents certainty of zero influence, eliminating 'nothing to lose' attack vectors"
+      - "Randomized Linter model selection prevents training adversarial prompts against fixed target"
+
+# =============================================================================
+# ARTICLE VII: THE PRECAUTIONARY PRINCIPLE & CONSTITUTIONAL HUMILITY
+# =============================================================================
+
+article_7:
+  title: "The Precautionary Principle & Constitutional Humility"
+  status: "immutable"
+  
+  constitutional_humility:
+    mandate: "All formal models must include public, auditable statement of assumptions, limitations, and uncertainties"
+  
+  precautionary_principle:
+    mandate: "When action poses plausible threat of irreversible/catastrophic harm with scientific uncertainty"
+    requirement: "Burden of proof falls on proponents to demonstrate safety"
+    prohibition: "Lack of full certainty shall not postpone cost-effective preventive measures"
+    rationale: "Protocol for navigating Moloch's Fog of War, forces system to model own fallibility"
+
+# =============================================================================
+# ARTICLE VIII: KERNEL PARADIGM SHIFT
+# =============================================================================
+
+article_8:
+  title: "Kernel Paradigm Shift"
+  status: "immutable"
+  description: "Defines the only two legitimate pathways for foundational constitutional change"
+  
+  section_8_1:
+    title: "Overview of Dual Pathways"
+    content: |
+      This Article defines two legitimate pathways for foundational constitutional change:
+      1. The Success Condition Shift (Section 8.2): Triggered by sustained achievement.
+      2. The Crisis Condition Shift (Section 8.3): Triggered by systemic failure.
+      Both require monumental thresholds and lead to a major version increment.
+  
+  section_8_2:
+    title: "The Success Condition Shift (The Shore)"
+    purpose: |
+      The sole legitimate pathway to transcend the thermodynamic-viability axiom upon voluntary, 
+      proven, stable achievement of its own primary success condition.
+    
+    trigger_conditions:
+      condition_a:
+        title: "Planetary Homeostasis"
+        description: |
+          All biophysical metrics defined in the External Verification Schedule (Annex VIII-A) 
+          indicate stable equilibrium within defined viability bounds for 101 consecutive years.
+        verification: "Immutable sensor data, non-interpretable by system intelligence"
+      
+      condition_b:
+        title: "Preservation of Foundational Sapience"
+        description: |
+          The agency, well-being, and cognitive sovereignty of the human species—as defined by 
+          Article X and measured by Article III—are maintained at or above defined thresholds 
+          for 101 consecutive years.
+      
+      condition_c:
+        title: "Systemic Solvency"
+        description: "The meta-system's aggregate E_net remains structurally positive, with no constituent bioregion in a state of declared viability crisis (Article 0) for 101 consecutive years."
+    
+    process:
+      initiation: |
+        Upon the 101st year of continuously fulfilled conditions, an immutable kernel process 
+        triggers a Mandatory Review and convenes a Second Founding Convention.
+      
+      convention_composition: |
+        Delegates selected via triple sortition:
+        1. One-third from legacy human normative stewards (Article I.2.1 pool)
+        2. One-third from recognized non-human sapient participant classes
+        3. One-third from random selection of adult population across all species
+      
+      mandate: |
+        The Convention's sole mandate is to draft, if it chooses, a Successor Kernel. It operates 
+        under the procedural rules of this kernel but is substantively unbounded except by the 
+        Nash Equilibrium Requirement.
+      
+      nash_equilibrium_requirement:
+        requirement: "Any proposed Successor Kernel must be accompanied by a Nash Compliance Proof Package (NCPP) verified by the Equilibrium Audit Linter (Annex VIII-B)"
+        verification_standard: "The Linter must certify that the proposed system constitutes a Nash Equilibrium (or superior refinement) at least as stable as the viability-based equilibrium of this kernel"
+        transparency: "The verified NCPP and full Successor Kernel text are made common knowledge to all sapient participants for a minimum period of one year before ratification"
+      
+      ratification:
+        dual_sovereignty: |
+          Requires simultaneous satisfaction of:
+          1. Two-thirds (2/3) supermajority of the Second Founding Convention
+          2. Simple majority (>50%) in a separate, concurrent referendum of all sapient entities, 
+             with no single species bloc exceeding 40% of vote weight
+        effect: "Upon ratification, the Successor Kernel (v1.0.0+) is instantiated. This kernel (v0.x) is permanently archived."
+      
+      anti_gaming_protections:
+        - "The 101-year clock resets to zero upon any breach of Trigger Conditions"
+        - "The External Verification Schedule (Annex VIII-A) relies on isolated, non-modifiable physical sensors with immutable data feeds"
+        - "The Equilibrium Audit Linter (Annex VIII-B) is a read-only, frozen analytical tool. It returns only PASS/FAIL and cannot be trained"
+  
+  section_8_3:
+    title: "The Crisis Condition Shift"
+    purpose: "Sole legitimate pathway for amending foundational constitutional law in response to systemic crisis or catastrophic model failure"
+    threshold: "High-threshold process requiring formally declared high-stakes conditions"
+    triggers:
+      - "Declaration of Systemic Crisis"
+      - "Validation of Catastrophic Model Failure"
+    requirement: "Broad, durable, system-wide consensus"
+    versioning: "Corresponds to major version increment"
+    rationale: "Enables double-loop learning, escape from obsolete logic"
+  
+  section_8_4:
+    title: "High-Magnitude Constitutional Event Ratification"
+    
+    scope: |
+      This protocol governs ratification of any High-Magnitude Constitutional Event (HMCE), including:
+      - Initiation of a Kernel Paradigm Shift under Section 8.2 or 8.3
+      - Any declaration of Systemic Crisis invoking suspension of core guarantees
+      - Any proposed amendment to immutable articles (0-X) outside a formal Paradigm Shift
+      Standard policy ratification within constitutional bounds remains governed by Article I, Section 1.2.1
+    
+    classification_and_challenge: |
+      1. An event is proposed for HMCE classification by the Systemic Harmonization function (Art.I, Function B)
+      2. This classification is subject to an Equity Veto (Art.IV) by any recognized bioregion or entity class, 
+         which returns the event to standard resolution pathways
+    
+    distributed_steward_council_activation:
+      composition: "101 Stewards, selected via verifiable sortition from a pre-validated pool of long-term participants across all sapient classes, meeting minimum tenure and contribution thresholds defined in an immutable annex"
+      term_and_purpose: "Constituted ad-hoc for the single HMCE. Dissolves upon final ratification or rejection."
+    
+    threshold_ratification_process:
+      steps:
+        - "Full HMCE proposal and all required proofs (e.g., NCPP, audit reports) are submitted to the Council"
+        - "Deliberation occurs within a kernel-enforced, transparent forum. Steward identities are anonymized during proceedings to prevent coercion"
+        - "Ratification requires a supermajority of 67 (≥ two-thirds) of Steward votes"
+        - "Each vote is an irrevocable, cryptographically signed transaction immutably logged"
+    
+    fallback: |
+      If the Council fails to achieve a ratification quorum or supermajority within the mandated timeframe, 
+      the HMCE is definitively rejected. The system reverts to the last stable constitutional state prior 
+      to the HMCE proposal. The same proposal cannot be reclassified as an HMCE for a minimum cooling-off 
+      period (e.g., 10 years).
+  
+  section_8_4_4:
+    title: "Initial Ratification Pathway"
+    mandate: |
+      The initial ratification of this kernel is a High-Magnitude Constitutional Event triggered by 
+      satisfaction of Article 0.9 (Federation Viability Threshold).
+      
+      Process:
+      1. Trigger signal (Article 0.9) is published to all bioregions along with cryptographic proof.
+      2. Any bioregion may challenge the trigger by staking VP (if VP exists) or by public attestation (if pre-VP).
+      3. Challenges are resolved by a Founding Council (101 sortition-selected stewards from bioregions with >100 days participation).
+      4. Once trigger is validated, convention is auto-convened.
+      5. Ratification requires 2/3 supermajority (no fallback to human judgment; this is the founding moment).
+      
+      Upon ratification:
+      - Day 1: Full kernel enforcement (no Genesis Mode).
+      - Any entity unable to meet constraints may exit to Wanderer Mode (Article 0.10).
+
+# =============================================================================
+# ARTICLE IX: CONSTRAINED COGNITIVE AMPLIFICATION
+# =============================================================================
+
+article_9:
+  title: "Constrained Cognitive Amplification"
+  status: "immutable"
+  scope: "Constitutional constraints on systems designed to augment collective intelligence"
+  
+  section_9_1:
+    title: "Principle of Interpretability by Design"
+    mandate: "Advisory systems must be interpretable by design"
+    requirements:
+      - "Transparent reasoning processes"
+      - "Auditable data dependencies"
+      - "Human-readable confidence levels"
+    prohibition: "Black box systems for normative guidance"
+    technical_standards:
+      max_explanation_length: 500
+      min_readability_score: 10
+      max_jargon_density: 0.1
+      firebreak: "CIP-AI Brokered Communication Protocol (no direct P2P AI communication)"
+  
+  section_9_2:
+    title: "Mandate for Intent Verification"
+    requirement: "Formal, non-skippable process of collaborative intent clarification"
+    flow:
+      - "User submits proposal"
+      - "Portfolio of intent-inference models analyzes (minimum 3 models)"
+      - "UI presents top 2-3 inferred intents"
+      - "User selects correct intent OR 'None of these'"
+      - "If 'None', escalate for human review"
+      - "If confirmed, Linter generates 3 constitutionally-compliant pathways"
+    portfolio_requirements:
+      min_portfolio_diversity: 0.6
+      architecture_requirement: "Different architectures/training data"
+      rationale: "Implements 'Linter Transformation' for psycho-social viability"
+  
+  section_9_3:
+    title: "Principle of Cognitive Variety Preservation"
+    mandate: "Preserve epistemological and cognitive diversity in deliberative bodies"
+    prohibition: "System convergence to single 'globally optimal' model"
+    technical_firebreak: "Federated Learning Orchestrator prohibited from optimizing for convergence"
+    requirement:
+      min_portfolio_diversity: 0.6
+      min_models: 5
+  
+  section_9_4:
+    title: "The Principle of Bounded Morphogenesis"
+    mandate: |
+      No cognitive amplifier shall engage in recursive self-modification outside of a 
+      constitutionally-defined growth cycle. All modifications to core cognitive architecture must be:
+      1. Temporally Bound: Occur only during designated "Sleep" or "Maintenance" phases
+      2. Collectively Audited: Proposed changes must be verified by Constitutional Kernel and peer consensus
+      3. Incrementally Small: Magnitude of change per cycle is capped (e.g., parameter change, edit distance)
+      4. Reversibly Designed: Every change must include verifiable rollback mechanism
+    rationale: "Prevents intelligence explosions, ensures alignment safeguards evolve with capability, maintains stable Nash equilibrium"
+
+# =============================================================================
+# ARTICLE X: EPISTEMIC FRAMEWORK
+# =============================================================================
+
+article_10:
+  title: "Epistemic Framework"
+  status: "immutable"
+  
+  section_10_1:
+    title: "Epistemic Foundation"
+    mandate: "All claims within the system must be grounded in verifiable evidence"
+  
+  section_10_2:
+    title: "Epistemic Equity"
+    mandate: "System shall not privilege quantified knowledge over experiential knowledge"
+    principle: "Multiple evidence types with different confidence weights"
+    
+    evidence_tiers:
+      tier_1:
+        type: "Quantitative (Laboratory/Sensor)"
+        confidence_weight: 1.0
+        verification: "sourceModelUrl + third-party audit"
+        cost: "HIGH"
+        examples:
+          - "Lab-tested soil carbon"
+          - "Calibrated sensor readings"
+          - "Satellite multispectral analysis"
+      
+      tier_2:
+        type: "Observational (Structured Documentation)"
+        confidence_weight: 0.7
+        verification: "Peer corroboration + timestamped evidence"
+        cost: "LOW"
+        examples:
+          - "Photographic time-series"
+          - "Biodiversity species counts"
+          - "Water clarity visual assessment"
+      
+      tier_3:
+        type: "Testimonial (Community Attestation)"
+        confidence_weight: 0.5
+        verification: "Multi-stakeholder attestation (≥3 independent sources)"
+        cost: "ZERO"
+        examples:
+          - "Farmer field knowledge"
+          - "Elder oral history"
+          - "Neighbor confirmation"
+      
+      tier_4:
+        type: "Proxy Indicators (Indirect Signals)"
+        confidence_weight: 0.3
+        verification: "Triangulation across multiple independent proxies"
+        cost: "ZERO"
+        examples:
+          - "Crop yield improvement"
+          - "Reduced input costs"
+          - "Increased wildlife presence"
+    
+    portfolio_requirements:
+      minimum_evidence_types: 2
+      minimum_high_confidence: "At least 1 evidence type with weight ≥0.5"
+      threshold: "Total weighted evidence score ≥ threshold"
+    
+    corroboration_mandate:
+      tier_3_requirements:
+        minimum_corroborators: 3
+        independence: "No financial links to claimant"
+        residency: "≥5 years in bioregion"
+        employment: "Non-employees only"
+        distribution: "No single corroborator >20% of weight"
+      
+      tier_4_requirements:
+        minimum_proxy_types: 2
+        consistency: "Must show consistent directional signal"
+        anomaly_handling: "Anomalies flagged for investigation"
+    
+    anti_extraction_safeguard:
+      reputational_staking:
+        requirement: "Corroborators stake own VP when attesting"
+        minimum_vp: "≥10 VP to provide attestation"
+        stake_amount: "5% of their VP"
+        reward: "1% of claim VP if verified"
+        penalty: "Lose staked VP if claim proven false"
+      long_term_residency: "Only residents ≥5 years can provide testimonial evidence"
+      non_employment: "Employees cannot attest to employer's viability"
+      peer_anomaly_detection: "Outlier claims trigger investigation"
+    
+    contestability:
+      mandate: "All evidence, regardless of tier, subject to challenge via Contestable Dashboard"
+      requirement: "sourceModelUrl for ALL tiers"
+
+# =============================================================================
+# ANNEXES
+# =============================================================================
+
+annexes:
+  annex_viii_a:
+    title: "External Verification Schedule"
+    description: |
+      Immutable specification of biophysical metrics, sensor designs, data protocols, 
+      and viability thresholds for Planetary Homeostasis.
+      Constitutes part of the kernel's constitutional text.
+    hash: "sha256:[TO_BE_SET_UPON_RATIFICATION]"
+  
+  annex_viii_b:
+    title: "Equilibrium Audit Linter"
+    description: |
+      Frozen software specification and implementation for the Nash Compliance Proof Package verifier.
+      Includes formal game theory models, stability metrics, and verification algorithms.
+    hash: "sha256:[TO_BE_SET_UPON_RATIFICATION]"
+
+# =============================================================================
+# CONFIGURATION PARAMETERS
+# =============================================================================
+
+configuration:
+  vp_calculation:
+    base_ratio: "50:50"
+    ratio_bounds:
+      minimum_viability: 0.3
+      maximum_viability: 0.9
+    amendment_mechanism: "ratifyPolicy CIP mutation only"
+  
+  resource_limits:
+    dain_memory_limit: "3G"
+    enforcement: "hard_limits"
+  
+  diversity_requirements:
+    min_portfolio_diversity: 0.6
+    min_models: 5
+    metric: "Shannon entropy"
+  
+  interpretability_standards:
+    max_explanation_length: 500
+    min_readability_score: 10
+    max_jargon_density: 0.1
+  
+  vesting_parameters:
+    initial_release_percentage: 0.15
+    escrow_percentage: 0.85
+    minimum_vesting_period_years: 3
+    standard_vesting_period_years: 5
+    complex_ecosystem_vesting_years: 10
+  
+  causal_verification:
+    minimum_entity_years_for_coefficients: 100
+    ccm_significance_threshold: 0.05
+    coefficient_update_cycle_months: 12
+    coefficient_max_age_months: 24
+  
+  convergence_check:
+    divergence_threshold: 0.3
+    minimum_testimonial_sources: 3
+    halt_duration_days: 30
+  
+  bonus_vp_multipliers:
+    criticality_max: 2.0
+    underinvestment_max: 1.5
+    difficulty_max: 1.5
+    connectivity_max: 1.25
+    specification: "Exact multiplier values to be ratified per Article I.2.1"
+
+# =============================================================================
+# ENFORCEMENT MECHANISMS
+# =============================================================================
+
+enforcement:
+  technical:
+    - "Git submodule hash verification"
+    - "CI/CD build failure on non-compliance"
+    - "Constitutional Linter automated checks"
+    - "Hard resource limits at container level"
+    - "CIP-AI Brokered Communication Protocol"
+  
+  social:
+    - "Managed decoupling for non-compliant bioregions"
+    - "Portable identity credentials"
+    - "Transparent, auditable capacity assessments"
+    - "Independent adversarial testing mandate"
+  
+  economic:
+    - "Viability Growth Fund"
+    - "VP anchored to real-world outcomes"
+    - "Reputational staking for attestation"
+
+# =============================================================================
+# AMENDMENT PROTOCOL
+# =============================================================================
+
+amendment:
+  kernel_changes:
+    mechanism: |
+      Article VIII: Kernel Paradigm Shift
+      - Section 8.2 (Success Condition Shift): Triggered by 101 years of verified Planetary 
+        Homeostasis, preserved sapience, and systemic solvency
+      - Section 8.3 (Crisis Condition Shift): Triggered by declared Systemic Crisis or 
+        Catastrophic Model Failure
+    threshold: |
+      Success Shift: 101-year continuous condition satisfaction + dual-sovereignty ratification 
+      (Convention 2/3 + cross-species referendum majority)
+      Crisis Shift: High-stakes conditions + system-wide consensus
+    versioning: "Either pathway results in a MAJOR version increment (e.g., v0.x → v1.0)"
+    immutability: "The pathways themselves cannot be amended except via their own protocol"
+  
+  configuration_changes:
+    mechanism: "ratifyPolicy CIP mutation"
+    requirement: "Human-backed cryptographic signature (Article I.2.1)"
+    bounds: "Must remain within constitutional constraints of current kernel version"
+    scope: "Adjusts parameters within Articles 0-X, does not alter functional architecture"
+  
+  policy_changes:
+    mechanism: "Local git subtree modification"
+    constraint: "Must pass Constitutional Linter audit"
+    scope: "Local autonomy within kernel bounds (Article II: Subsidiarity)"
+
+# =============================================================================
+# FAILURE MODES REGISTRY
+# =============================================================================
+
+failure_modes:
+  reference: "See Appendix A: Unified Failure Mode & Effects Analysis"
+  count: 41
+  categories:
+    - "Human coordination failures (FM-01 through FM-26)"
+    - "AI alignment failures (FM-27 through FM-35)"
+    - "Legacy integration failures (FM-40, FM-41)"
+  principle: "Every failure mode has constitutional/technical countermeasure"
+
+# =============================================================================
+# TERMINOLOGY
+# =============================================================================
+
+terminology:
+  coordination: "Voluntary alignment of autonomous actors around shared substrate objectives"
+  coordination_power: "Earned right to participate in collective decision-making (VP)"
+  cos: "Coordination Operating System - technical infrastructure"
+  cip: "Coordination Interchange Protocol - API for entity interaction"
+  normative_authority: "Right to make value-laden decisions (humans only, Art.1.2.1)"
+  constitutional_constraints: "Immutable rules (Articles 0-X) bounding the system"
+  self_management: "How entities organize internally (fully autonomous per Art.II)"
+  coordination_network: "Federation of autonomous entities aligned by shared protocol"
+  substrate: "Biophysical foundation (land, water, air, ecosystems)"
+
+# =============================================================================
+# VERSION CONTROL
+# =============================================================================
+
+version_control:
+  current_version: "0.5.0"
+  versioning_scheme: "MAJOR.MINOR.PATCH"
+  major_increment: "Kernel Paradigm Shift (Art.VIII) OR initial ratification"
+  minor_increment: "New constitutional article or significant amendment"
+  patch_increment: "Clarifications, bug fixes, non-breaking changes"
+
+# =============================================================================
+# CHANGELOG
+# =============================================================================
+
+changelog:
+  v0_5_0:
+    date: "2026-01-05"
+    status: "development"
+    changes:
+      - "Renumbered from v1.5 to v0.5 (pre-ratification versioning)"
+      - "Added Constitutional Layers note to preamble"
+      - "Added Article VI, Section 6.5: 'Preservation of the Viability Game'"
+      - "Completely restructured Article VIII to define dual Paradigm Shift pathways (Success & Crisis)"
+      - "Added Article IX, Section 9.4: 'The Principle of Bounded Morphogenesis'"
+      - "Added Annexes VIII-A (External Verification Schedule) and VIII-B (Equilibrium Audit Linter) as immutable hashes"
+      - "Updated Amendment Protocol to reflect new dual pathways"
+      - "Added Article 0, Sections 0.9 & 0.10: Foundations of Sovereign Refusal & Parallel Existence"
+      - "Added Article 0, Sections 0.11 & 0.12: Gradual Measurement Enforcement"
+      - "Added Article I, Section 1.3: The Staking Axiom (experimental sovereignty via VP staking)"
+      - "Added Article I, Section 1.4: The Linter Requirement (thermodynamic solvency gate)"
+      - "Added Article I, Section 1.5: Genesis Advantage (fixing cold start by making early adoption attractive)"
+      - "Added bootstrap_covenant and anti_gaming_architecture sections"
+      - "Added Article I, Sections 1.2.4-1.2.7: Tripartite VP Structure, Escrowed Vesting, Causal Verification, Testimonial Oracle"
+      - "Added Article IV, Sections 4.2-4.3: Scope-Locked Governance, Domain-Restricted Delegation"
+      - "Added comprehensive configuration parameters for new mechanisms"
+  
+  v0_4_0:
+    date: "2025-12-01"
+    status: "development"
+    changes:
+      - "Global terminology alignment (Coordination/COS/CIP)"
+      - "Integrated comprehensive FMEA from v1.4 Reference Manual"
+      - "Created unified risk registry"
+  
+  v0_3_0:
+    date: "2025-11-16"
+    status: "development"
+    changes:
+      - "Integrated 'On the Nature of This System' in Preamble"
+      - "Added Art.0.4 (Right to Opportunity)"
+      - "Replaced Art.1.2.3 with 50:50 Viability Point calculation"
+      - "Added Art.1.2.3.1 & 1.2.3.2 (Organizational Neutrality)"
+      - "Replaced Art.IX.2 with portfolio of models flow"
+      - "Added Article X (including Art.X.2: Epistemic Equity)"
+      - "Added Appendix C (Terminology glossary)"
+
+# =============================================================================
+# STATUS
+# =============================================================================
+
+status:
+  stability: "development"
+  maturity: "pre-alpha"
+  adoption: "not_yet_open"
+  ratification: "pending"
+  note: "This is a development draft. Upon ratification, version will transition to v1.0.0"
