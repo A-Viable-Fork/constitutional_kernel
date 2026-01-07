@@ -45,31 +45,25 @@ constitutional-kernel/
 ├── LICENSE                         # AGPL-3.0-or-later
 ├── README.md                       # This file
 ├── CHANGELOG.md                    # Version history
-├── CONTRIBUTING.md                 # How to contribute
+├── CONTRIBUTING.md                 # Amendment process
+├── .gitignore
 │
-├── docs/
-│   ├── philosophy/                 # Philosophical foundations
-│   ├── architecture/               # System architecture
-│   └── implementation/             # Implementation guides
-│
-├── schemas/
-│   ├── contract-schema.json        # CIP contract validation
-│   └── evidence-tiers.json         # Article X evidence framework
-│
-├── tools/
-│   ├── linter/                     # Constitutional linter
-│   └── validator/                  # Kernel validator
-│
-├── examples/
-│   ├── minimal-entity.yml          # Simplest compliant entity
-│   ├── bioregional-dao.yml         # Bioregional implementation
-│   └── federation.yml              # Multi-bioregion federation
-│
-└── tests/
-    ├── thermodynamic/              # Article 0 test suite
-    ├── functional/                 # Article I (VSM) tests
-    └── epistemic/                  # Article X tests
+└── docs/
+    ├── philosophy/                 # Philosophical foundations
+    ├── architecture/               # System architecture
+    └── implementation/             # Implementation guides
 ```
+
+**Note**: This repository contains ONLY the constitutional specification and documentation.
+
+**Implementation code** (Python, agents, API servers, etc.) belongs in:
+- [vcs-project](https://github.com/A-Viable-Fork/vcs-project) - Reference implementation
+- Domain-specific forge repositories
+
+**Pattern libraries** belong in:
+- [cos-patterns](https://github.com/A-Viable-Fork/cos-patterns) - Shared pattern library
+
+See the [Ecosystem Guide](#ecosystem) for the full repository structure.
 
 ## Quick Start
 
@@ -182,9 +176,51 @@ Upon ratification: `v1.0.0` (Stable)
 
 ## Related Projects
 
-- **VCS (Viable Collective Superintelligence)**: Reference implementation of this kernel
-- **COS-Scaffold**: Foundational infrastructure for COS
-- **CIP (Coordination Interchange Protocol)**: API specification
+- **[vcs-project](https://github.com/A-Viable-Fork/vcs-project)** - Reference implementation of this kernel
+- **[cos-patterns](https://github.com/A-Viable-Fork/cos-patterns)** - Shared coordination pattern library
+- **CIP Specification** - Coordination Interchange Protocol (coming soon)
+
+## Ecosystem
+
+This repository is the **immutable constitutional core**. It defines the law, not the implementation.
+
+### Repository Architecture
+
+```
+constitutional-kernel (this repo)
+    ↓ (referenced as submodule)
+cos-patterns
+    ↓ (referenced as subtree)
+vcs-project (reference implementation)
+    ↓ (builds domain-specific forges)
+analytical-forge, normative-forge, expressive-forge, pragmatic-forge
+    ↓ (power applications)
+bioregional-dao, regenerative-farm-os, community-coordination-app
+```
+
+### What Goes Where?
+
+**This Repository (constitutional-kernel)**:
+- ✅ YAML constitutional specification
+- ✅ Documentation explaining the constitution
+- ✅ Amendment process
+- ❌ NO implementation code
+- ❌ NO pattern libraries
+- ❌ NO deployment configurations
+
+**Pattern Library (cos-patterns)**:
+- ✅ Coordination patterns (YAML)
+- ✅ Pattern documentation
+- ❌ NO implementation code
+
+**Implementation (vcs-project and forges)**:
+- ✅ Python/JavaScript/etc. code
+- ✅ Agent definitions
+- ✅ API servers
+- ✅ Docker configurations
+- ✅ Integration tests
+
+See [GITHUB_STRUCTURE.md](https://github.com/A-Viable-Fork/vcs-project/blob/main/GITHUB_STRUCTURE.md) for complete architecture.
 
 ## Philosophy
 
@@ -247,15 +283,15 @@ If you reference this kernel in academic work:
   year = {2025},
   version = {0.5.0},
   license = {AGPL-3.0-or-later},
-  url = {https://github.com/[your-org]/constitutional-kernel}
+  url = {https://github.com/A-Viable-Fork/constitutional-kernel}
 }
 ```
 
 ## Contact
 
-- **Issues**: https://github.com/[your-org]/constitutional-kernel/issues
-- **Discussions**: https://github.com/[your-org]/constitutional-kernel/discussions
-- **Email**: kernel@viable-systems.org
+- **Issues**: https://github.com/A-Viable-Fork/constitutional-kernel/issues
+- **Discussions**: https://github.com/A-Viable-Fork/constitutional-kernel/discussions
+- **Email**: AViableFork@gmail.com
 
 ## Acknowledgments
 
